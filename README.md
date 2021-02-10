@@ -12,7 +12,7 @@
 ### Let's Connect:
 
 - Website: Coming Soon
-- Instagram:
+- <a href="https://www.instagram.com/tarynwritescode/" target="_blank">Instagram</a>
 - Twitter:
 - Itch.io Game Page:
 
