@@ -11,10 +11,10 @@
 
 ### Let's Connect:
 
-Website: Coming Soon
-Instagram:
-Twitter:
-Itch.io Game Page:
+- Website: Coming Soon
+- Instagram:
+- Twitter:
+- Itch.io Game Page:
 
 ### My Games:
 
