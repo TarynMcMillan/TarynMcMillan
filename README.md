@@ -1,6 +1,5 @@
-### Hi 👋
 
-<img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="250">
+<img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="500">
 
 ## Taryn McMillan
 
