@@ -1,6 +1,8 @@
 
 ## Taryn McMillan || Game Developer
 
+<img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Taryn%20McMillan%20Game%20Developer.gif" width="400">
+
 ### About Me:
 
 - 🔭 I’m currently working on: Creating narrative-rich games in Unity
