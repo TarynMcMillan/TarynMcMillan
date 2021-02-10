@@ -13,7 +13,7 @@
 
 - Website: Coming Soon
 - <a href="https://www.instagram.com/tarynwritescode/" target="_blank">Instagram</a>
-- Twitter:
+- <a href="https://twitter.com/TarynWritesCode" target="_blank">Twitter</a> 
 - Itch.io Game Page:
 
 ### My Games:
