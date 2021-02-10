@@ -5,6 +5,8 @@
 
 <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="250">
 
+## Taryn McMillan
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: 2D and 3D demo games in Unity
