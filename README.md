@@ -14,7 +14,7 @@
 - Website: Coming Soon
 - <a href="https://www.instagram.com/tarynwritescode/" target="_blank">Instagram</a>
 - <a href="https://twitter.com/TarynWritesCode" target="_blank">Twitter</a> 
-- Itch.io Game Page:
+- <a href="https://mystic-mill-games.itch.io/" target="_blank">Itch.io Games Page</a>
 
 ### My Games:
 
