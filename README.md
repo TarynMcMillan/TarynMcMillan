@@ -1,7 +1,7 @@
 
 ## Taryn McMillan || Game Developer
 
-<img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Banner.gif: width="900">
+<img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Banner.gif" width="900">
 
 ### About Me:
 
