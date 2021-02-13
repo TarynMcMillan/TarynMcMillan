@@ -18,10 +18,11 @@
 
 ### My Games:
 
-| No Crooks on Christmas        | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="300">   | 3D tower defense game.  |
-| The Ghastly Guesser |:-------------:| -----:|
-| The Coffee Shop | $1600 |
-|    | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Title     |       | Description  |
+| ------------- |:-------------:| -----:|
+| No Crooks on Christmas     | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="300"> | 3D tower defense game. |
+| The Ghastly Guesser     | centered      |   $12 |
+| The Coffee Shop | are neat      |    $1 |
+
 
 
