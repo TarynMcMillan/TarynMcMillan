@@ -20,9 +20,9 @@
 
 | Title     |       | Description  |
 | ------------- |:-------------:| -----:|
-| No Crooks on Christmas     | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="500"> | 3D tower defense game. >> <a href="mystic-mill-games.itch.io">PLAY</a> |
-| The Ghastly Guesser     | <img src="https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Ghastly%20Guesser%20gif.gif" width="500">      |   2D letter guessing game. |
-| The Coffee Shop | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Coffee%20Shop%20gif.gif" width="500">      |    2D text adventure game. Submitted to the Narrative-Driven Game Jame on Itch.io in February 2021. |
+| No Crooks on Christmas     | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="500"> | 3D tower defense game. >> <a href="https://mystic-mill-games.itch.io/no-crooks-on-christmas" target="_blank">PLAY</a> |
+| The Ghastly Guesser     | <img src="https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Ghastly%20Guesser%20gif.gif" width="500">      |   2D letter guessing game. >> <a href="https://mystic-mill-games.itch.io/the-ghastly-guesser" target="_blank">PLAY</a> |
+| The Coffee Shop | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Coffee%20Shop%20gif.gif" width="500">      |    2D text adventure game. Submitted to the Narrative-Driven Game Jame on Itch.io in February 2021. >> <a href="https://mystic-mill-games.itch.io/the-coffee-shop" target="_blank">PLAY</a> | |
 
 
 
