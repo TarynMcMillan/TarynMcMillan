@@ -18,10 +18,10 @@
 
 ### My Games:
 
-| Tables        | Are           | Cool  |
+| No Crooks on Christmas        | The Ghastly Guesser       | The Coffee Shop  |
 | ------------- |:-------------:| -----:|
 | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="300">     | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| My published game is a 3D tower defence.      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 
