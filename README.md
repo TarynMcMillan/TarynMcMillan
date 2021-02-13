@@ -1,5 +1,5 @@
 
-## Taryn McMillan || Game Developer
+<img src="https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Taryn%20McMillan%20gif.gif" width= "900">
 
 ### About Me:
 
