@@ -20,7 +20,7 @@
 
 | Title     |       | Description  |
 | ------------- |:-------------:| -----:|
-| No Crooks on Christmas     | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="300"> | 3D tower defense game. |
+| No Crooks on Christmas     | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="500"> | 3D tower defense game. |
 | The Ghastly Guesser     | centered      |   $12 |
 | The Coffee Shop | are neat      |    $1 |
 
