@@ -9,7 +9,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a History nerd who knows Latin and French
 
-### Let's Connect:
+### Connect With Me:
 
 - Website: Coming Soon
 - <a href="https://www.instagram.com/tarynwritescode/" target="_blank">Instagram</a>
