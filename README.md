@@ -22,7 +22,7 @@
 | ------------- |:-------------:| -----:|
 | No Crooks on Christmas     | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="500"> | 3D tower defense game. |
 | The Ghastly Guesser     | centered      |   2D letter guessing game. |
-| The Coffee Shop | are neat      |    2D text adventure game. Submitted to the Narrative-Driven Game Jame on Itch.io in February 2021. |
+| The Coffee Shop | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Coffee%20Shop%20gif.gif" width="500">      |    2D text adventure game. Submitted to the Narrative-Driven Game Jame on Itch.io in February 2021. |
 
 
 
