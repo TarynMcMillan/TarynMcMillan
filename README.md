@@ -18,5 +18,10 @@
 
 ### My Games:
 
-<img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="500">
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+<img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="300">
 
