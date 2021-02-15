@@ -11,7 +11,7 @@
 
 ### Connect With Me:
 
-- Website: Coming Soon
+- <a href="https://tarynmcmillan.com/" target="_blank">Website</a>
 - <a href="https://www.instagram.com/tarynwritescode/" target="_blank">Instagram</a>
 - <a href="https://twitter.com/TarynWritesCode" target="_blank">Twitter</a> 
 - <a href="https://mystic-mill-games.itch.io/" target="_blank">Itch.io Games Page</a>
