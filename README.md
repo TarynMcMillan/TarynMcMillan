@@ -10,14 +10,17 @@ Welcome to my GitHub profile! I'm a dedicated C# Unity developer with over three
 
 📝 **Most of my GitHub repos are private but here's a snapshot of some of the projects I've worked on:**
 
-* <a href="https://tarynmcmillan.com/mcmaster-simulation/">McMaster University Nuclear Reactor Neutron Instrument Simulator</a>
-    *A 3D simulation of two nuclear research tools at McMaster University. Project funded by eCampus Ontario.
-* <a href="https://www.gamedev.tv/p/unity-visual-scripting/">Unity Visual Scripting: Learn Programming The Easy Way</a>
-    *An online course I created with GameDev.tv for beginner Unity devleopers. 
-* <a href="https://mystic-mill-games.itch.io/the-coffee-shop">The Coffee Shop</a>
-    *A 2D text-based game about a mysterious coffee shop.
-*<a href="https://mystic-mill-games.itch.io/grave-digger">Grave Digger</a>
-    * A 2D mini game with a spooky theme.
+* [McMaster University Nuclear Reactor Neutron Instrument Simulator](https://tarynmcmillan.com/mcmaster-simulation/)
+   - A 3D simulation of nuclear research tools at McMaster University.
+
+* [Unity Visual Scripting: Learn Programming The Easy Way](https://www.gamedev.tv/p/unity-visual-scripting/)
+   - An online course I created with GameDev.tv for beginner Unity developers.
+
+* [The Coffee Shop](https://mystic-mill-games.itch.io/the-coffee-shop)
+   - A 2D text-based game about a mysterious coffee shop.
+
+* [Grave Digger](https://mystic-mill-games.itch.io/grave-digger)
+   - A 2D mini game with a spooky theme.
 
 ## Let's Connect
 
