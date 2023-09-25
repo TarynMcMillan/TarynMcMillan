@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a dedicated C# Unity developer with over three
 
 ## What I've Been Working On
 
-🎮 **Projects:** 3D Simulation for McMaster University | 2D text-based game
+### 🎮 Projects: Most of my GitHub repos are private but here's a snapshot of some of the projects I've created:
+
 
 📝 **Contributions:** I'm always eager to contribute to more open source projects. 
 
@@ -16,9 +17,9 @@ Welcome to my GitHub profile! I'm a dedicated C# Unity developer with over three
 
 ## Let's Connect
 
-🌐 **Website:** [Your Personal Website](https://www.tarynmcmillan.com)
+🌐 **Website:** [My website](https://www.tarynmcmillan.com)
 
-🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/tarynwritescode)
+🐦 **Twitter:** [@tarynwritescode](https://twitter.com/tarynwritescode)
 
-📷 **Instagram:** [@YourInstagramHandle](https://www.instagram.com/tarynwritescode)
+📷 **Instagram:** [@tarynwritescode](https://www.instagram.com/tarynwritescode)
 
