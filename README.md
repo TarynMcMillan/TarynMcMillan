@@ -8,12 +8,11 @@ Welcome to my GitHub profile! I'm a dedicated C# Unity developer with over three
 
 ## What I've Been Working On
 
-### 🎮 Projects: Most of my GitHub repos are private but here's a snapshot of some of the projects I've created:
+📝 **Most of my GitHub repos are private but here's a snapshot of some of the projects I've created:**
 
-
-📝 **Contributions:** I'm always eager to contribute to more open source projects. 
-
-📚 **Learning Resources:** Game development is a journey, and I'm here to share what I've learned along the way. You'll find helpful resources, tutorials, and insights on my blog and in my repositories.
+<ul>
+<li><a href="https://tarynmcmillan.com/mcmaster-simulation/">McMaster University Nuclear Reactor Neutron Instrument Simulator</a>| A 3D simulation of two nuclear research tools</li>
+</ul>
 
 ## Let's Connect
 
