@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a dedicated C# Unity developer with over three
 
 📝 **Most of my GitHub repos are private but here's a snapshot of some of the projects I've worked on:**
 
-* [Tiny Troves of Dev Wisdom](https://github.com/TarynMcMillan/TinyTroves)
+* [Tiny Troves of Dev Wisdom](https://github.com/TarynMcMillan/Tiny-Troves-of-Dev-Wisdom)
    - A collaborative 2D mini game built for Hacktoberfest 2023.
    
 * [McMaster University Nuclear Reactor Neutron Instrument Simulator](https://tarynmcmillan.com/mcmaster-simulation/)
