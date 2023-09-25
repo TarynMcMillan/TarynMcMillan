@@ -1,28 +1,24 @@
+# Hi there! 👋 I'm Taryn.
 
-<img src="https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Taryn%20McMillan%20header.gif" width= "900">
+## About Me
 
-### About Me:
+🎮 Passionate C# Unity Developer | 🚀 3+ Years of Experience | 🎓 Lifelong Learner
 
-- 🔭 I’m currently working on: Creating narrative-rich games in Unity
-- 🌱 I’m currently learning: C#, Unity, JavaScript, HTML, CSS
-- 💬 Ask me about: Unity, game development, making a career change into STEM
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a History nerd who knows Latin and French
+Welcome to my GitHub profile! I'm a dedicated C# Unity developer with over three years of hands-on experience in crafting 2D and 3D games, simulations, and learning content. 
 
-### Connect With Me:
+## What I've Been Working On
 
-- <a href="https://tarynmcmillan.com/" target="_blank">Website</a>
-- <a href="https://www.instagram.com/tarynwritescode/" target="_blank">Instagram</a>
-- <a href="https://twitter.com/TarynWritesCode" target="_blank">Twitter</a> 
-- <a href="https://mystic-mill-games.itch.io/" target="_blank">Itch.io Games Page</a>
+🎮 **Projects:** 3D Simulation for McMaster University | 2D text-based game
 
-### My Games:
+📝 **Contributions:** I'm always eager to contribute to more open source projects. 
 
-| Title     |       | Description  |
-| ------------- |:-------------:| -----:|
-| No Crooks on Christmas     | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/giphy.gif" width="500"> | 3D tower defense game. >> <a href="https://mystic-mill-games.itch.io/no-crooks-on-christmas" target="_blank">PLAY</a> |
-| The Ghastly Guesser     | <img src="https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Ghastly%20Guesser%20gif.gif" width="500">      |   2D letter guessing game. >> <a href="https://mystic-mill-games.itch.io/the-ghastly-guesser" target="_blank">PLAY</a> |
-| The Coffee Shop | <img src= "https://github.com/TarynMcMillan/TarynMcMillan/blob/main/Coffee%20Shop%20gif.gif" width="500">      |    2D text adventure game. Submitted to the Narrative-Driven Game Jam on Itch.io in February 2021. >> <a href="https://mystic-mill-games.itch.io/the-coffee-shop" target="_blank">PLAY</a> | |
+📚 **Learning Resources:** Game development is a journey, and I'm here to share what I've learned along the way. You'll find helpful resources, tutorials, and insights on my blog and in my repositories.
 
+## Let's Connect
 
+🌐 **Website:** [Your Personal Website](https://www.tarynmcmillan.com)
+
+🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/tarynwritescode)
+
+📷 **Instagram:** [@YourInstagramHandle](https://www.instagram.com/tarynwritescode)
 
