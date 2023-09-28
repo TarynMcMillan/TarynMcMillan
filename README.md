@@ -6,6 +6,8 @@
 
 Welcome to my GitHub profile! I'm a dedicated C# Unity developer with over three years of hands-on experience in crafting 2D and 3D games, simulations, and learning content. 
 
+[![An image of @tarynmcmillan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tarynmcmillan)](https://holopin.io/@tarynmcmillan)
+
 ## What I've Been Working On
 
 📝 **Most of my GitHub repos are private but here's a snapshot of some of the projects I've worked on:**
