@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎮 Passionate C# Unity Developer | 🚀 3+ Years of Experience | 🎓 Lifelong Learner
+🎮 Passionate C# Unity Developer | 🚀 3+ Years of Experience | 🎓 Lifelong Learner | ☕ Virtual Coffee community member
 
 Welcome to my GitHub profile! I'm a dedicated C# Unity developer with over three years of hands-on experience in crafting 2D and 3D games, simulations, and learning content. 
 
