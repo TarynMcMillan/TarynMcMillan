@@ -2,9 +2,9 @@
 
 ## About Me
 
-🎮 Passionate C# Unity Developer | 🚀 3+ Years of Experience | 🎓 Lifelong Learner | ☕ Virtual Coffee community member
+🎮 Passionate C# Unity Developer | 🚀 Technical Writer | 🎓 Lifelong Learner | ☕ Virtual Coffee community member
 
-Welcome to my GitHub profile! I'm a dedicated C# Unity developer with over three years of hands-on experience in crafting 2D and 3D games, simulations, and learning content. 
+Welcome to my GitHub profile! I'm a dedicated C# Unity developer, technical writer, and instructor.  
 
 [![An image of @tarynmcmillan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tarynmcmillan)](https://holopin.io/@tarynmcmillan)
 
